@@ -4,9 +4,8 @@ An open source software workflow to align the thermal photos shotted by UAV.
 The steps illustrate the design and development of the UAV-based OSS workflow:
 
 Step 1:
-Write the function to convert in grayscale and resize the Infrared images (from 640x480 to 3840x2880) (see ﬁgure 10).
-
-Write the function to crop the RGB images (from 4056x3040 to 3840x2880)
+Write the function to convert in grayscale and resize the Infrared images (from 640x480 to 3840x2880);
+Write the function to crop the RGB images (from 4056x3040 to 3840x2880.
 
 
 Step 2:
