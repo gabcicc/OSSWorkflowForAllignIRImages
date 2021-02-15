@@ -20,3 +20,6 @@ The OSS Open Drone Map (ODM) has been used for the photogrammetry and stitching 
 Step 4:
 Extract the IR band from the orthophoto. Quantum GIS or Multispec have been used to achieve this aim.
 
+The next phase would be to test different open source photogrammetry solutions to improve processing time and develop a stand-alone open source application (e.g., Python QGis plugin) that includes all phases of the work.
+
+
