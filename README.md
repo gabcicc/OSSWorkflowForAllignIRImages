@@ -5,10 +5,10 @@ These workflows made it possible to merge RGB and IR images into 4-channel TIFF 
 
 The steps illustrate the design and development of the UAV-based OSS workflow:
 
-Step 1:
+Step 1: The GNU-Octave software has been used for steps 1 and 2.
+
 Write the function to convert in grayscale and resize the Infrared images (from 640x480 to 3840x2880);
 Write the function to crop the RGB images (from 4056x3040 to 3840x2880.
-
 
 Step 2:
 Merge the IR and RGB images in 4-band TIFF image.
