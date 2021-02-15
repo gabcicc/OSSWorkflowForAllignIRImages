@@ -1,5 +1,7 @@
 # OSSWorkflowForAllignIRImages
-An open source software workflow to align the thermal photos shotted by UAV.
+
+The tests carried out showed how the alignment phase of the images shotted by UAV is influenced by the different lighting conditions, depending to the different flight times. None of the commercial photogrammetry software is capable of aligning images taken before sunrise or after sunset. 
+These workflows made it possible to merge RGB and IR images into 4-channel TIFF images, allowing the photogrammetry software to construct an orthophoto from which thermal information can be extracted.
 
 The steps illustrate the design and development of the UAV-based OSS workflow:
 
